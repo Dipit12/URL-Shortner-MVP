@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/analytics.controller.ts","./src/controllers/url.controller.ts","./src/models/urlschema.ts","./src/routes/analytics.routes.ts","./src/routes/health.routes.ts","./src/routes/url.routes.ts","./src/utils/mongodbconnection.ts","./src/utils/redisconnection.ts"],"version":"5.7.3"}
