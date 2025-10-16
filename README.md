@@ -74,6 +74,4 @@ graph TD
 
 
 
-## System Architecture Diagram
 
-![High-Level Design Diagram](./high_level_design.png)
